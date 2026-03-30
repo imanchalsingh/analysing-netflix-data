@@ -42,7 +42,7 @@ Analysing-Netflix-Data-Cleaning/
 │
 ├── data/
 │ ├── netflix_titles.csv
-│ └── netflix_cleaned.csv
+│ └── cleaned-data.csv
 │
 ├── notebook/
 │ └── netflix_data_cleaning.ipynb
